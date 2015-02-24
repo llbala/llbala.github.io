@@ -1,0 +1,27 @@
+
+#headshot {
+width: 200px;
+float: right;
+margin-right: 10px;
+border: gray thin solid;
+padding: 5px;
+
+.body-copy {
+    /* background: rosybrown; */
+    margin-left: 222px;
+    background: rgba(116, 141, 99, 0.21);
+    padding: 10px;
+}
+
+ul#classlinks {
+  border: 1px solid gray;
+  clear: left;
+  margin-left: 249px;
+  margin-right: auto;
+  padding-top: 13px;
+  width: 219px;
+}
+
+h2.clear-left {
+  clear:left;
+}
